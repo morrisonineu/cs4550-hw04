@@ -2,7 +2,7 @@ server {
     listen 80;
     listen [::]:80;
 
-    # TODO: This should be your server name.
+    # Added: This should be your server name.
     server_name hw04.morrisonineu.org;
 
     location / {
