@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Iain B. Morrison
+
+2. What hostname did you deploy your app to?
+hw04.morrisonineu.org
+
+3. What's the URL of your git for this assignment?
+https://github.com/morrisonineu/cs4550-hw04
+
+4. How much of the functionality did you complete?
+I completed almost all of the functionality but I had some issues in deploying it.
+
+5. Did you successfully deploy? If not, what's broken?
+I had issues with deploying it, in testing it worked for the most part but I have a hard time starting and deploying it from my server. Unsure what is broken, it proably happened during the deployment steps.
+
+6. How comfortable do you feel with Elixir now?
+I do not feel very comfortable with Elixir, it is still pretty confusing to me. But I think I have an easier time understanding code written in it now, but it would take more practice to become good at executing it.
+
+7. Which parts of this assignment did you have trouble with, if any?
+Deployment
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
