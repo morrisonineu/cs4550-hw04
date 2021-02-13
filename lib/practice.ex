@@ -21,5 +21,8 @@ defmodule Practice do
     [1,2,x]
   end
 
-  # TODO: Add a palindrome? function.
+  # Added: Add a palindrome? function.
+  def palindrome?(str) do
+    str == String.reverse(str)
+  end
 end
